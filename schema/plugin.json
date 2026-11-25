@@ -1,0 +1,16 @@
+{
+  "title": "Jupyter Cell Hide Toggle",
+  "description": "Adds a button to the cell toolbar to toggle the hidden metadata flag.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false,
+  "jupyter.lab.toolbars": {
+    "Cell": [
+      {
+        "name": "toggle-cell-hidden",
+        "command": "jupyter-cell-hide-toggle:toggle-hidden",
+        "rank": 45
+      }
+    ]
+  }
+}

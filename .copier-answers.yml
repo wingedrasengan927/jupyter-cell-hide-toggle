@@ -1,0 +1,18 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.5.0
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: ms.neerajkrishna@gmail.com
+author_name: neeraj
+create_claude_symlink: false
+create_gemini_symlink: false
+has_ai_rules: true
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: jupyter-cell-hide-toggle
+project_short_description: 'A JupyterLab extension that toggles metadata {"hidden":
+    true/false} upon press of a button in the cell toolbar'
+python_name: jupyter_cell_hide_toggle
+repository: https://github.com/wingedrasengan927/jupyter-cell-hide-toggle
+test: false
+
